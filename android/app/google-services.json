@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991362307957",
+    "project_id": "igo123",
+    "storage_bucket": "igo123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991362307957:android:0b6a7a1eacaabe31c9e53c",
+        "android_client_info": {
+          "package_name": "com.example.igo123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991362307957-2ntetpolarcuusqvavo444nrk0vh8v9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsunWOwCRUo2OUFWChI2Mq7yDOJWzCck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991362307957-2ntetpolarcuusqvavo444nrk0vh8v9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991362307957-gcfpjba4gg3j5odurg93v8l3e6kak5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.igo123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
